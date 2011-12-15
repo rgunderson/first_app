@@ -14,7 +14,7 @@
 /log/*.log
 /tmp
 
-# Ignore, additional suggestions from railstutorial
+# Ignore, with additional suggestions from railstutorial
 tmp/**/*
 tmp/*
 doc/api
